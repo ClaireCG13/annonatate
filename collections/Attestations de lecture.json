@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Attestations de lecture",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://clairecg13.github.io/annonatate/annotations/12148-bc6p07b5s78-f80-list.json'></iiif-annotation>",
+            "title": "Attestations de lecture du manuscrit d'Abu Ahmad",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
