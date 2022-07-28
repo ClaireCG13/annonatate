@@ -1,0 +1,35 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/bc6p07b5s78/canvas/f80"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "attestation de lecture",
+            "purpose": "tagging",
+            "creator": {
+                "id": "ClaireCG13",
+                "name": "ClaireCG13"
+            },
+            "created": "2022-07-28T13:23:26.635Z",
+            "modified": "2022-07-28T13:23:32.392Z"
+        }
+    ],
+    "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bc6p07b5s78/canvas/f80",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1510.2694091796875,214.0169677734375,875.6761474609375,375.02972412109375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbc6p07b5s78/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9401eaf4-400a-4dab-85ee-3089df9fdccb.json",
+    "motivation": "commenting"
+}
