@@ -1,0 +1,46 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "tour",
+            "purpose": "tagging",
+            "creator": {
+                "id": "ClaireCG13",
+                "name": "ClaireCG13"
+            },
+            "created": "2022-09-01T15:21:26.722Z",
+            "modified": "2022-09-01T15:21:27.960Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "tour",
+            "purpose": "describing",
+            "creator": {
+                "id": "ClaireCG13",
+                "name": "ClaireCG13"
+            },
+            "created": "2022-09-01T15:21:30.103Z",
+            "modified": "2022-09-01T15:21:33.731Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3556.095947265625,595.0328979492188,152.964599609375,329.5279541015625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/mc00336-1911Bldg-May2017/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "383a229a-94ad-4b45-a58f-21d9afdf4f4b.json",
+    "motivation": "commenting"
+}
